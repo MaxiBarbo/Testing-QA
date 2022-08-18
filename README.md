@@ -7,7 +7,7 @@ Archivos y Proyectos de Testing
 
 - [Proyectos](#Proyectos)
   - [Open Cart](#OpenCart)
-  - [Poke Api](Testing-QA/Apimon_MaximilianoBarbosa.pdf)
+  - [Poke Api](Apimon_MaximilianoBarbosa.pdf)
   
 
 ### OpenCart
