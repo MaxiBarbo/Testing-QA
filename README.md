@@ -17,7 +17,7 @@ Archivos y Proyectos de Testing
 #### Es un reporte de prueba de respuesta en la Api de "PokeApi", donde el fin de este testing fue corroborar tipos de estados e intepretar su respeusta
 
 ### [Inmobiliaria](inmobiliaria)
-#### Es un proyecto realizado en un grupo de trabajo que se formo en la web IDFORIDEAS
+#### Es un proyecto 
 
           
          
