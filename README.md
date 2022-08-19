@@ -16,8 +16,8 @@ Archivos y Proyectos de Testing
 ### [PokeApi](Apimon_MaximilianoBarbosa.pdf)
 #### Es un reporte de prueba de respuesta en la Api de "PokeApi", donde el fin de este testing fue corroborar tipos de estados e intepretar su respeusta
 
-### [Inmobiliaria](inmobiliaria)
-#### Es un proyecto 
+### [Inmobiliaria Web](inmobiliaria)
+#### Es un proyecto web realizado en la platafroma IdforIdeas
 
           
          
