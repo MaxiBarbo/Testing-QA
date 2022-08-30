@@ -11,7 +11,7 @@
 
 📱[Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
- [ℹ️](https://www.linkedin.com/in/maxi-barbosa/)
+ [ℹ️n Maxi Barbosa](https://www.linkedin.com/in/maxi-barbosa/)
 
 Archivos y Proyectos de Testing
 
