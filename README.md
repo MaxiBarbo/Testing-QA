@@ -8,9 +8,6 @@
 
 [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
-![LinkedIn](https://user-images.githubusercontent.com/86979361/187549528-cf944005-697e-44aa-9d9b-3e90dd1443bc.svg)
-
-
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
 Archivos y Proyectos de Testing
