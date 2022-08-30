@@ -1,6 +1,6 @@
 # Testing-QA
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,js,css)](https://skills.thijs.gg)
 
 [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
