@@ -9,7 +9,7 @@ Archivos y Proyectos de Testing
   - [Proyecto Inmobiliaria](#Inmobiliaria)
   
 
-### [OpenCart](./Docs/BarbosaMaximiliano_testingOpenCart.pdf)
+### [OpenCart](/Docs/BarbosaMaximiliano_testingOpenCart.pdf)
 
 #### Este reporte fue realizado con fines practicos y mejora en la busqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en [CoderHouse](https://plataforma.coderhouse.com/)
 ###  [PokeApi](./Docs/Apimon_MaximilianoBarbosa.pdf)
