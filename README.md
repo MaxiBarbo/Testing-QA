@@ -8,7 +8,7 @@
 
 [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
-![LinkedinGIF](https://user-images.githubusercontent.com/86979361/187552555-a9c7d540-6ac1-4a20-ad50-1ba974bc5a76.gif)
+![LinkedinGIF](https://user-images.githubusercontent.com/86979361/187552555-a9c7d540-6ac1-4a20-ad50-1ba974bc5a76.gif){:height="6px" width="6px"}
 
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
