@@ -11,7 +11,8 @@
 
 📱[Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
- [ℹ️n Maxi Barbosa](https://www.linkedin.com/in/maxi-barbosa/)
+ ![LinkedinGIF (2)](https://user-images.githubusercontent.com/86979361/187555268-5599fe21-0e07-4d02-a19d-fe8c012be828.gif whidth:5px)
+ [In](https://www.linkedin.com/in/maxi-barbosa/)
 
 Archivos y Proyectos de Testing
 
