@@ -1,7 +1,8 @@
 # Testing-QA
-[Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
+[Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
