@@ -2,10 +2,10 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,js,css,mysql,react)](https://skills.thijs.gg)
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
+  
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  
 </p>
 
 [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
