@@ -7,7 +7,9 @@
 </p>
 
 [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
-<iconify-icon icon="logos:linkedin-icon"></iconify-icon>
+
+![LinkedinGIF](https://user-images.githubusercontent.com/86979361/187552555-a9c7d540-6ac1-4a20-ad50-1ba974bc5a76.gif)
+
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
