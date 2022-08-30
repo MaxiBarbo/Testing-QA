@@ -1,4 +1,6 @@
 # Testing-QA
+![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
+
 Archivos y Proyectos de Testing
 
 ## Contenido
