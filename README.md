@@ -9,10 +9,9 @@
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
-📱[Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
+🖊️ [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
- ![LinkedinGIF (2)](https://user-images.githubusercontent.com/86979361/187555268-5599fe21-0e07-4d02-a19d-fe8c012be828.gif whidth:5px)
- [In](https://www.linkedin.com/in/maxi-barbosa/)
+ 🖋️ [In](https://www.linkedin.com/in/maxi-barbosa/)
 
 Archivos y Proyectos de Testing
 
