@@ -2,6 +2,12 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,js,css,mysql,react)](https://skills.thijs.gg)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
