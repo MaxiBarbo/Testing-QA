@@ -20,7 +20,7 @@ Archivos y Proyectos de Testing
 - [Proyectos](#Proyectos)
   - [Open Cart](#OpenCart)
   - [Poke Api](#pokeApi)
-  - [Proyecto Inmobiliaria](#Inmobiliaria)
+  - [Proyecto Inmobiliaria de IdforIdeas](#Inmobiliaria)
   
 
 ### [OpenCart](./Docs/Testing%20OpenCart.pdf)
