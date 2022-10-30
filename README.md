@@ -15,14 +15,14 @@
 
 Archivos y Proyectos de Testing
 
-## Contenido
+## 📋 Contenido
 
 - [Proyectos](#Proyectos)
   - [Open Cart](#OpenCart)
   - [Poke Api](#pokeApi)
   - [Proyecto Inmobiliaria de IdforIdeas](#Inmobiliaria)
 
-### [Inmobiliaria Web](https://github.com/MaxiBarbo/Testing_Bonpland/blob/main/README.md)
+### [Inmobiliaria Bonpland](https://github.com/MaxiBarbo/Testing_Bonpland/blob/main/README.md)
 
 #### Es un proyecto web realizado en la platafroma [IdforIdeas](https://idforideas.com/)
 ###  [PokeApi](./Docs/Apimon_MaximilianoBarbosa.pdf)
