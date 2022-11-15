@@ -16,9 +16,9 @@
 # Proyectos de Testing 📒
 
 ### 📋<em>Contenido</em>
-- [Open Cart](../Testing-QA/Docs/TestingOpenCart.pdf) 
-- [Test Api](../Testing-QA/Docs/Apimon_MaximilianoBarbosa.pdf)
-- [Proyecto Inmobiliaria de IdforIdeas](https://github.com/MaxiBarbo/Testing_Bonpland/blob/main/READMEmd)
+- [Open Cart](./Docs/TestingOpenCart.pdf) 
+- [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
+- [Proyecto Inmobiliaria de IdforIdeas](https://github.com/MaxiBarbo/Testing_Bonpland.git)
 <br/>
 <br/>
 
