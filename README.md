@@ -1,4 +1,4 @@
-# Testing-QA
+<h1 align="center">Testing-QA</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,4 +29,5 @@ Es un proyecto web correspone a la Idea 5 de la plataforma y consta en el desarr
 
 <h3 align="left">🔹 OpenCart</h3>
 Este reporte fue realizado con fines practicos y mejora en la busqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHose
-    
+<br/>
+<br/>   
