@@ -11,7 +11,7 @@
 
 ### ✒️ [Mi CV](./Docs/Maximiliano%20Barbosa.pdf)
 
-### ✏️ [In](https://www.linkedin.com/in/maxi-barbosa/)
+### ✏️ [LinkedIn](https://www.linkedin.com/in/maxi-barbosa/)
 
 # Proyectos de Testing 📒
 
