@@ -9,7 +9,7 @@
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
-✒️ [Mi CV](./Docs/CV%20-%20Maxi%20Barbosa.pdf)
+✒️ [Mi CV](./Docs/Maximiliano%20Barbosa.pdf)
 
 ✏️ [In](https://www.linkedin.com/in/maxi-barbosa/)
 
