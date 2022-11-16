@@ -16,7 +16,7 @@
 # Proyectos de Testing 📒
 
 ### 📋<em>Contenido</em>
-- [Open Cart](./Docs/TestingOpenCart.pdf) 
+- [Open Cart](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit) 
 - [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
 - [Proyecto Inmobiliaria de IdforIdeas](https://github.com/MaxiBarbo/Testing_Bonpland.git)
 <br/>
