@@ -1,4 +1,4 @@
-<h1 align="center">Testing-QA</h3>
+<h1 align="left">Testing-QA</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
