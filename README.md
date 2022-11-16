@@ -18,7 +18,7 @@
 ## 📋<em>Contenido</em>
 - ### [Open Cart](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit) 
 - ### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
-- ### [Proyecto Real-Estate de IdforIdeas](https://github.com/MaxiBarbo/Testing_Bonpland.git)
+- ### [Proyecto Real-Estate de IdforIdeas](https://github.com/tahouse-casa/tahouse-testing.git)
 <br/>
 <br/>
 
