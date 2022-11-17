@@ -29,7 +29,7 @@ Es un proyecto web correspone a la Idea 5 de la plataforma y consta en el desarr
 
 ⚙ Entornos de trabajo utilizados:
 - [Trello](): Gestor de proyectos para crear las tareas de cada Rol en el equipo (historias de usuario y criterios de aceptacion) aplciando Metodologia Agile de Scrum
-- [GitHub](): Creamos una organizacion para realizar el despliegue de la app y unifcar la ubicacion de los distintos repositorios creados (Back, Front, Infra y Testing) 
+- [GitHub / Orgs](https://github.com/orgs/tahouse-casa/repositories): Creamos una organizacion para realizar el despliegue de la app y unifcar la ubicacion de los distintos repositorios creados (Back, Front, Infra y Testing) 
 <br/>
 
 
