@@ -22,8 +22,12 @@
 <br/>
 <br/>
 
-<h3 align="left">🔹 Inmobiliaria Bonpland</h3>
-Es un proyecto web correspone a la Idea 5 de la plataforma y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad.
+<h3 align="left">🔹 Inmobiliaria TA House</h3>
+Es un proyecto web correspone a la Idea 5 de la plataforma y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. 
+
+- Entornos de trabajo utilizados:
+  - Trello: Utilizamos este gestor de proyectos ara crear las tareas de cada Rol en el equipo (historias de usuario) aplciando Metodologia Agile de Scrum
+  - GitHub: Creamos una [organizacion](https://github.com/orgs/tahouse-casa/repositories) para relizar el despliegue de la app y unifcar ubicacion de los distintos repositorios creados (Back, Front, Infra y Testing) 
 <br/>
 <br/>
 
