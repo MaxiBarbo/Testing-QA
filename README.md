@@ -24,14 +24,14 @@
 
 <h3 align="left">🔹 Inmobiliaria TA House</h3>
 Es un proyecto web correspone a la Idea 5 de la plataforma y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. 
-<br/>
-<br/>
 
-⚙ Entornos de trabajo utilizados:
-- [Trello](): Gestor de proyectos para crear las tareas de cada Rol en el equipo (historias de usuario y criterios de aceptacion) aplciando Metodologia Agile de Scrum
-- [GitHub / Orgs](https://github.com/orgs/tahouse-casa/repositories): Creamos una organizacion para realizar el despliegue de la app y unifcar la ubicacion de los distintos repositorios creados (Back, Front, Infra y Testing) 
-<br/>
+Se utlizaron los siguientes entornos de trabajo:
+<br/> 
 
+-  [Trello]()
+-  [GitHub / Orgs](https://github.com/orgs/tahouse-casa/repositories)
+<br/>
+<br/>
 
 <h3 align="left">🔹 OpenCart</h3>
 Este reporte fue realizado con fines practicos y mejora en la busqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHose
