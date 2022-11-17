@@ -28,8 +28,8 @@ Es un proyecto web correspone a la Idea 5 de la plataforma y consta en el desarr
 Se utlizaron los siguientes entornos de trabajo:
 <br/> 
 
-- ### [Trello]()
-- ### [GitHub / Orgs](https://github.com/orgs/tahouse-casa/repositories)
+- [Trello]()
+- [GitHub / Orgs](https://github.com/orgs/tahouse-casa/repositories)
 <br/>
 <br/>
 
