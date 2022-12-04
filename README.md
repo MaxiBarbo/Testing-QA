@@ -29,7 +29,7 @@ Se utlizaron los siguientes entornos de trabajo:
 <br/> 
 
 - [Trello]()
-- [GitHub / Orgs](https://github.com/orgs/tahouse-casa/repositories)
+- [GitHub / Orgs](https://github.com/tahouse-casa/tahouse-testing.git)
 <br/>
 <br/>
 
