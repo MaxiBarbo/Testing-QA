@@ -23,7 +23,7 @@
 <br/>
 
 <h3 align="left">🔹 Inmobiliaria TA House</h3>
-Es un proyecto web correspone a la Idea 5 de la plataforma y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. 
+Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. 
 
 Se utlizaron los siguientes entornos de trabajo:
 <br/> 
@@ -34,6 +34,6 @@ Se utlizaron los siguientes entornos de trabajo:
 <br/>
 
 <h3 align="left">🔹 OpenCart</h3>
-Este reporte fue realizado con fines practicos y mejora en la busqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHose
+Este reporte fue realizado con fines practicos y mejora en la busqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse
 <br/>
 <br/>   
