@@ -18,7 +18,7 @@
 ### 📋<em>Contenido</em>
 - #### [Open Cart](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit) 
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
-- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas](https://github.com/tahouse-casa/tahouse-testing.git)
+- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://dev.tahouse.casa/)
 <br/>
 <br/>
 
@@ -29,7 +29,7 @@ Se utlizaron los siguientes entornos de trabajo:
 <br/> 
 
 - [Trello]()
-- [GitHub / Orgs](https://github.com/orgs/tahouse-casa/repositories)
+- [GitHub / Orgs - Testing](https://github.com/tahouse-casa/tahouse-testing.git)
 <br/>
 <br/>
 
