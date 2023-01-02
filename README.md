@@ -31,6 +31,7 @@ Se utlizaron los siguientes entornos para documentar y organizar la realizacion 
 - [Trello](https://trello.com/b/UwFdep98/idea-5)
 - [GitHub / Orgs - Testing](https://github.com/tahouse-casa/tahouse-testing.git)
 - [Google Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
+- [Figma](https://www.figma.com/file/XTdPPJZFzEO9vrJkXYoMNz/TaHouse---Proyecto-Inmobiliario?node-id=705%3A55&t=lP6f8Xa103E0LsL4-1)
 <br/>
 <br/>
 
