@@ -28,9 +28,9 @@ Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y con
 Se utlizaron los siguientes entornos para documentar y organizar la realizacion de app web :
 <br/> 
 
-- [Trello]()
+- [Trello](https://trello.com/b/UwFdep98/idea-5)
 - [GitHub / Orgs - Testing](https://github.com/tahouse-casa/tahouse-testing.git)
-- [Google Docs]()
+- [Google Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
 <br/>
 <br/>
 
