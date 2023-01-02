@@ -25,11 +25,12 @@
 <h3 align="left">🔹 Inmobiliaria TA House</h3>
 Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. 
 
-Se utlizaron los siguientes entornos de trabajo:
+Se utlizaron los siguientes entornos para documentar y organizar la realizacion de app web :
 <br/> 
 
 - [Trello]()
 - [GitHub / Orgs - Testing](https://github.com/tahouse-casa/tahouse-testing.git)
+- [Google Docs]()
 <br/>
 <br/>
 
