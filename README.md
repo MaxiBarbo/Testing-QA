@@ -17,7 +17,7 @@
 
 ### 📋<em>Contenido</em>
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
-- #### [Open Cart](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit) 
+- #### [Open Cart](./Docs/TestingOpenCart.pdf) 
 - #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://dev.tahouse.casa/)
 <br/>
 <br/>
@@ -37,4 +37,6 @@ Se utlizaron los siguientes entornos para documentar y organizar la realizacion 
 <h3 align="left">🔹 OpenCart</h3>
 Este reporte fue realizado con fines practicos y mejora en la busqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse
 <br/>
+
+- [Google Docs]()
 <br/>   
