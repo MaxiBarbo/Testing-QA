@@ -28,7 +28,7 @@ Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y con
 Se utlizaron los siguientes entornos para documentar y organizar la realizacion de app web:
 <br/> 
 
-- [Trello]
+- [Trello](https://github.com/MaxiBarbo/Testing-QA.git)
 - [GitHub / Orgs - Testing](https://github.com/tahouse-casa/tahouse-testing.git)
 - [Google Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
 - [Figma](https://www.figma.com/file/XTdPPJZFzEO9vrJkXYoMNz/TaHouse---Proyecto-Inmobiliario?node-id=705%3A55&t=lP6f8Xa103E0LsL4-1)
