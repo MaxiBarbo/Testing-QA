@@ -18,7 +18,7 @@
 ### 📋<em>Contenido</em>
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
 - #### [Open Cart](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
-- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://tahouse-casa.github.io/tahouse-testing/cypress/downloads/inicio.html)
+- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html)
 <br/>
 <br/>
 
