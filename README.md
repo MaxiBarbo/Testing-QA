@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-<h3 align="left">🔹 Inmobiliaria TA House</h3>
+<h3 align="left">🔹Inmobiliaria TA House</h3>
 Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. Mis Roles dentro del proyecto son el de PO y Tester, junto con el equipo trabajamos con la metodoliga Scrum
 
 Se utlizaron los siguientes entornos para documentar y organizar la realizacion de app web:
@@ -35,8 +35,8 @@ Se utlizaron los siguientes entornos para documentar y organizar la realizacion 
 <br/>
 <br/>
 
-<h3 align="left">🔹 OpenCart</h3>
-Este reporte fue realizado con fines practicos y mejora en la busqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse
+<h3 align="left">🔹E-Commerce - OpenCart</h3>
+Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse
 <br/>
 
 - [Google Docs](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit)
