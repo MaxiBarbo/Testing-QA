@@ -13,7 +13,7 @@
 
 #### ✏️ [LinkedIn](https://www.linkedin.com/in/maxi-barbosa/)
 
-## Proyectos de Testing 📒
+## Proyectos Testing 📒
 
 ### 📋<em>Contenido</em>
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
