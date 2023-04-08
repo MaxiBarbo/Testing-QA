@@ -19,6 +19,7 @@
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
 - #### [Open Cart](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
 - #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html)
+- #### [Testing Figaro - Barbery](https://github.com/MaxiBarbo/Barbery-App.git)
 <br/>
 <br/>
 
@@ -41,3 +42,12 @@ Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defe
 
 - [Google Docs](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit)
 <br/>   
+<br/>
+
+<h3 align="left">🔹Gestor de Turnos para Barberias - Figaro</h3>
+Es un proyecto libre realizado con la comunidad No-Country, donde se trabajo con un equipo auto-organizado con metodologia scrum
+<br/>
+
+- [Google Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
+
+<br/> 
