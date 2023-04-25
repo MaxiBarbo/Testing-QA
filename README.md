@@ -49,5 +49,6 @@ Es un proyecto libre realizado con la comunidad No-Country, donde se trabajo con
 <br/>
 
 - [Google Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
+- [Github Action](https://github.com/MaxiBarbo/Barbery-App/actions)
 
 <br/> 
