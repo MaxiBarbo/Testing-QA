@@ -9,7 +9,7 @@
 
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
 
-#### ✒️ [Mi CV](./Docs/cv-mb-morado.pdf)
+#### ✒️ [Mi CV](./Docs/cv_maxibarbosa_es.pdf)
 
 #### ✏️ [LinkedIn](https://www.linkedin.com/in/maxi-barbosa/)
 
