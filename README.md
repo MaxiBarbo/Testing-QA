@@ -13,13 +13,13 @@
 
 #### ✏️ [LinkedIn](https://www.linkedin.com/in/maxi-barbosa/)
 
-## Proyectos Testing 📒
+## Proyectos Testing Realizados 📒
 
 ### 📋<em>Contenido</em>
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
-- #### [Open Cart](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
-- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html)
-- #### [Testing Figaro - Barbery](https://github.com/No-Country/c10-34-t-mern.git)
+- #### [Open Cart](#open-cart) 
+- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)
+- #### [Testing Figaro - Barbery](#testing-figaro---barbery)
 <br/>
 <br/>
 
@@ -29,10 +29,14 @@ Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y con
 Se utlizaron los siguientes entornos para documentar y organizar la realizacion de app web:
 <br/> 
 
-- [Trello](https://github.com/MaxiBarbo/Testing-QA.git)
-- [GitHub / Orgs - Testing](https://github.com/tahouse-casa/tahouse-testing.git)
+- [Web](https://dev.tahouse.casa/) 
+- [HTML Report](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html) 
+- [GitHub Action](https://github.com/tahouse-casa/tahouse-testing/actions)
 - [Google Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
-- [Figma](https://www.figma.com/file/XTdPPJZFzEO9vrJkXYoMNz/TaHouse---Proyecto-Inmobiliario?node-id=705%3A55&t=lP6f8Xa103E0LsL4-1)
+- [Figma](https://www.figma.com/file/4kdfz5xOv0xe6VTIXFJmhT/TaHouse---Proyecto-Inmobiliario-1?node-id=1517%3A19288&t=5agVYS2iIg3MqEon-1)
+- [Trello](https://github.com/MaxiBarbo/Testing-QA.git)
+- [Repositorio del Proyecto](https://github.com/tahouse-casa)
+
 <br/>
 <br/>
 
@@ -40,6 +44,7 @@ Se utlizaron los siguientes entornos para documentar y organizar la realizacion 
 Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse
 <br/>
 
+- [Web](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
 - [Google Docs](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit)
 <br/>   
 <br/>
@@ -50,5 +55,5 @@ Es un proyecto libre realizado con la comunidad No-Country, donde se trabajo con
 
 - [Google Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
 - [Github Action](https://github.com/MaxiBarbo/Barbery-App/actions)
-
+- [Repositorio del Proyecto](https://github.com/No-Country/c10-34-t-mern.git)
 <br/> 
