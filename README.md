@@ -33,7 +33,7 @@ Se utlizaron las siguientes herramientas para documentar y realizar le proyecto:
 - [HTML Report](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html) 
 - [GitHub Action](https://github.com/tahouse-casa/tahouse-testing/actions)
 - [Google Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
-- [Figma](https://www.figma.com/file/4kdfz5xOv0xe6VTIXFJmhT/TaHouse---Proyecto-Inmobiliario-1?node-id=1517%3A19288&t=5agVYS2iIg3MqEon-1)
+- [Diseño en Figma](https://www.figma.com/file/4kdfz5xOv0xe6VTIXFJmhT/TaHouse---Proyecto-Inmobiliario-1?node-id=1517%3A19288&t=5agVYS2iIg3MqEon-1)
 - [Trello](https://github.com/MaxiBarbo/Testing-QA.git)
 - [Repositorio del Proyecto](https://github.com/tahouse-casa)
 
@@ -55,5 +55,6 @@ Es un proyecto libre realizado con la comunidad No-Country, la app web permite l
 
 - [Google Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
 - [Github Action](https://github.com/MaxiBarbo/Barbery-App/actions)
+- [Diseño en Figma](https://www.figma.com/file/y2FdStiQaM8LIcS0HzgQzE/Figaro?node-id=0-1&t=CvzvX21fUPUwBZUh-0)
 - [Repositorio del Proyecto](https://github.com/No-Country/c10-34-t-mern.git)
 <br/> 
