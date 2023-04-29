@@ -25,8 +25,7 @@
 
 <h3 align="left">🔹Inmobiliaria TA House</h3>
 Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. Mis Roles dentro del proyecto son el de PO y Tester, junto con el equipo trabajamos con la metodoliga Scrum
-
-Se utlizaron los siguientes entornos para documentar y organizar la realizacion de app web:
+Se utlizaron las siguientes herramientas para documentar y realizar le proyecto:
 <br/> 
 
 - [Web](https://dev.tahouse.casa/) 
@@ -50,7 +49,7 @@ Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defe
 <br/>
 
 <h3 align="left">🔹Gestor de Turnos para Barberias - Figaro</h3>
-Es un proyecto libre realizado con la comunidad No-Country, donde se trabajo con un equipo auto-organizado con metodologia scrum
+Es un proyecto libre realizado con la comunidad No-Country, la app web permite la gestion de turnos y obtencion de productos en una barberia, donde se trabajo con un equipo auto-organizado con metodologia scrum, 
 <br/>
 
 - [Google Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
