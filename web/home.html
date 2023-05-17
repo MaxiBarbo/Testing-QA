@@ -54,19 +54,25 @@
         <div id="content">
             
               <!-- SVG -->
-              <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-                <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" id="line">
-                  <line x1="75" y1="34" x2="75" y2="58"/>
-                </symbol>
-                <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" id="circle">
-                  <circle cx="75" cy="80" r="35"/>
-                </symbol>
-              </svg>
-            <button type="button"  id="sidebarCollapse" class="btn btn-warning navbar-btn">
-                <i class="glyphicon glyphicon-align-left"></i>
-                <span id="text">Ocultar</span>
-            </button>
-            <button onclick="toggleTheme()">Theme</button>
+              <div class="btngroup">
+                <label>
+                    <input class="toggle-checkbox" type="checkbox" onclick="toggleTheme()">
+                    <div class="toggle-slot">
+                    <div class="sun-icon-wrapper">
+                        <div class="iconify sun-icon" data-icon="feather-sun" data-inline="false"></div>
+                    </div>
+                    <div class="toggle-button"></div>
+                    <div class="moon-icon-wrapper">
+                        <div class="iconify moon-icon" data-icon="feather-moon" data-inline="false"></div>
+                    </div>
+                    </div>
+                </label>   
+
+                <button type="button"  id="sidebarCollapse" class="btn btn-warning navbar-btn">
+                    <i class="glyphicon glyphicon-align-left"></i>
+                    <span id="text">Ocultar</span>
+                </button>     
+            </div> 
             
              <main>
                 <div>
