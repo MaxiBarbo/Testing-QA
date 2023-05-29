@@ -1,13 +1,13 @@
 <h1 align="left">Testing-QA</h3>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css,mysql,react,vscode,figma,docker,selenium" />
   </a>
 </p>
 
 
-![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
+![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg) -->
 
 #### ✒️ [Mi CV](./Docs/cv_maxibarbosa_es.pdf)
 
