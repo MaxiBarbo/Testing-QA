@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="left">Testing-QA</h3>
 
 <p align="left">
