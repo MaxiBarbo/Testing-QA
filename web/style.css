@@ -13,7 +13,7 @@ body {
 
 body.dark {
   font-family: 'Poppins', sans-serif;
-    background: whitesmoke;
+    background: rgb(236, 234, 234);
     transition: 0.5s;
 }
 
@@ -438,7 +438,8 @@ a.article, a.article:hover {
   display: flex;
   flex-direction: column;
   width: 6%;
-  gap:2rem
+  margin-bottom: 3rem;
+  margin-top: -2rem;
 }
 @-webkit-keyframes line-animation {
   0% {
