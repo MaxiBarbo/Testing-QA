@@ -46,7 +46,7 @@
 - [Diseño en Figma](https://www.figma.com/file/y2FdStiQaM8LIcS0HzgQzE/Figaro?node-id=0-1&t=CvzvX21fUPUwBZUh-0)
 - [Backlog en Trello](https://trello.com/w/nocountryc101/home)
 - [Repositorio del Proyecto](https://github.com/No-Country/c10-34-t-mern.git)
-> Es un proyecto libre realizado con la comunidad No-Country, la app web permite la gestion de turnos y obtencion de productos en una barberia, donde se trabajo con un equipo auto-organizado con metodologia scrum
+> Es un proyecto libre realizado con la comunidad No-Country, la app web permite la gestion de turnos y obtencion de productos de la barberia, donde se trabajo con un equipo auto-organizado con metodologia scrum
 </details>
 
 <details><summary>OpenCart e-commerce</summary>
