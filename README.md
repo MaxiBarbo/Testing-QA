@@ -23,6 +23,7 @@
   
 - [Deploy](https://pigmeo-app.netlify.app/)
 - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
+- [GitHub Action](https://github.com/No-Country/s8-14-t-mern/actions)
 - [Repositorio del proyecto](https://github.com/No-Country/s8-14-t-mern)
 > App Desarrollada en la comunidad no-country donde su función es unir personas de diferentes roles formando equipos ágiles trabajando con metodologías scrum. Mi rol en el team s8-14-t-mern fue el de Tester Qa.
 </details>
