@@ -20,6 +20,7 @@
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
 - #### [Open Cart](#open-cart) 
 - #### [Testing Figaro - Barbery](#testing-figaro---barbery)
+  - [Testing Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
 - #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://dev.tahouse.casa/) 
   - [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit) 
 - #### [Pigmeo Wallet - Deploy](https://pigmeo-app.netlify.app/)
@@ -34,7 +35,7 @@ Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y con
 
 Se utlizaron las siguientes herramientas para documentar y realizar le proyecto:
 <br/> 
-(#ta-house--proyecto-real-estate-de-idforideas-version-mobile)
+
 - [App Web](https://dev.tahouse.casa/) 
 - [HTML Report](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html) 
 - [GitHub Action](https://github.com/tahouse-casa/tahouse-testing/actions)
@@ -66,3 +67,5 @@ Es un proyecto libre realizado con la comunidad No-Country, la app web permite l
 - [Repositorio del Proyecto](https://github.com/No-Country/c10-34-t-mern.git)
 <br/> 
 
+<!-- (#ta-house--proyecto-real-estate-de-idforideas-version-mobile)
+(#testing-figaro---barbery) -->
