@@ -21,7 +21,7 @@
 <details><summary>Pigmeo Wallet</summary>
 <p align="left">
   
-- [Deploy de la app](https://pigmeo-app.netlify.app/)
+- [Deploy pigmeo-app.netlify.app](https://pigmeo-app.netlify.app/)
 - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
 - [GitHub Action](https://github.com/No-Country/s8-14-t-mern/actions)
 - [Repositorio del proyecto](https://github.com/No-Country/s8-14-t-mern)
