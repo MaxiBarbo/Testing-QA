@@ -21,7 +21,7 @@
 <details><summary>Pigmeo Wallet</summary>
 <p align="left">
   
-- [Deploy](https://pigmeo-app.netlify.app/)
+- [Deploy de la app](https://pigmeo-app.netlify.app/)
 - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
 - [GitHub Action](https://github.com/No-Country/s8-14-t-mern/actions)
 - [Repositorio del proyecto](https://github.com/No-Country/s8-14-t-mern)
@@ -31,7 +31,7 @@
 <details><summary>Ta House</summary>
 <p align="left">
   
-- [Deploy](https://dev.tahouse.casa/) 
+- [Deploy de la app](https://dev.tahouse.casa/) 
 - [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
 - [HTML Report](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html) 
 - [GitHub Action](https://github.com/tahouse-casa/tahouse-testing/actions)
