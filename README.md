@@ -16,6 +16,8 @@
 
 ## Proyectos Testing Realizados 📒
 
+---
+
 ### 📋<em>Contenido</em>
 
 <details><summary>Pigmeo Wallet</summary>
@@ -63,7 +65,7 @@
   - [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit) 
 - #### [Pigmeo Wallet - Deploy](https://pigmeo-app.netlify.app/) -->
   
-----
+-
 <!-- 
 <h3 align="left">🔹Inmobiliaria TA House</h3>
 Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. Mis Roles dentro del proyecto son el de PO y Tester, junto con el equipo trabajamos con la metodoliga Scrum.
