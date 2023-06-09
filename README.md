@@ -82,14 +82,14 @@ Se utlizaron las siguientes herramientas para documentar y realizar le proyecto:
 <br/>
 <br/>
  -->
-<h3 align="left">🔹E-Commerce - OpenCart</h3>
+<!-- <h3 align="left">🔹E-Commerce - OpenCart</h3>
 Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse
 <br/>
 
 - [App Web](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
 - [Google Docs](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit)
 <br/>   
-<br/>
+<br/> -->
 
 <!-- <h3 align="left">🔹Gestor de Turnos para Barberias - Figaro</h3>
 Es un proyecto libre realizado con la comunidad No-Country, la app web permite la gestion de turnos y obtencion de productos en una barberia, donde se trabajo con un equipo auto-organizado con metodologia scrum, 
