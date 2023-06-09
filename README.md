@@ -35,7 +35,7 @@
 - [Diseño en Figma](https://www.figma.com/file/4kdfz5xOv0xe6VTIXFJmhT/TaHouse---Proyecto-Inmobiliario-1?node-id=1517%3A19288&t=5agVYS2iIg3MqEon-1)
 - [Backlog en Trello](https://trello.com/b/UwFdep98/idea-5)
 - [Repositorio del Proyecto](https://github.com/tahouse-casa)
-> Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. Mis Roles dentro del proyecto son el de PO y Tester, junto con el equipo trabajamos con la metodoliga Scrum.
+  > Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. Mis Roles dentro del proyecto son el de PO y Tester, junto con el equipo trabajamos con la metodoliga Scrum.
 </details>
 
 <details><summary>Figaro Barbery</summary>
