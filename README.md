@@ -37,6 +37,23 @@
 - [Repositorio del Proyecto](https://github.com/tahouse-casa)
 </details>
 
+<details><summary>Figaro Barbery</summary>
+<p align="left">
+  
+- [Google Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
+- [Github Action](https://github.com/MaxiBarbo/Barbery-App/actions)
+- [Diseño en Figma](https://www.figma.com/file/y2FdStiQaM8LIcS0HzgQzE/Figaro?node-id=0-1&t=CvzvX21fUPUwBZUh-0)
+- [Backlog en Trello](https://trello.com/w/nocountryc101/home)
+- [Repositorio del Proyecto](https://github.com/No-Country/c10-34-t-mern.git)
+</details>
+
+<details><summary>OpenCart e-commerce</summary>
+<p align="left">
+  
+- [App Web](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
+- [Google Docs](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit)  
+</details>
+
 <!-- ### 📋<em>Contenido</em>
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
 - #### [Open Cart](#open-cart) 
@@ -46,11 +63,8 @@
   - [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit) 
 - #### [Pigmeo Wallet - Deploy](https://pigmeo-app.netlify.app/) -->
   
-<br/>
-<br/>
-
 ----
-
+<!-- 
 <h3 align="left">🔹Inmobiliaria TA House</h3>
 Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y consta en el desarrollo de una Inmobiliaria en donde se puede vender, comprar y alquilar cualquier propiedad. Mis Roles dentro del proyecto son el de PO y Tester, junto con el equipo trabajamos con la metodoliga Scrum.
 
@@ -67,7 +81,7 @@ Se utlizaron las siguientes herramientas para documentar y realizar le proyecto:
 
 <br/>
 <br/>
-
+ -->
 <h3 align="left">🔹E-Commerce - OpenCart</h3>
 Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse
 <br/>
@@ -77,7 +91,7 @@ Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defe
 <br/>   
 <br/>
 
-<h3 align="left">🔹Gestor de Turnos para Barberias - Figaro</h3>
+<!-- <h3 align="left">🔹Gestor de Turnos para Barberias - Figaro</h3>
 Es un proyecto libre realizado con la comunidad No-Country, la app web permite la gestion de turnos y obtencion de productos en una barberia, donde se trabajo con un equipo auto-organizado con metodologia scrum, 
 <br/>
 
@@ -86,7 +100,7 @@ Es un proyecto libre realizado con la comunidad No-Country, la app web permite l
 - [Diseño en Figma](https://www.figma.com/file/y2FdStiQaM8LIcS0HzgQzE/Figaro?node-id=0-1&t=CvzvX21fUPUwBZUh-0)
 - [Backlog en Trello](https://trello.com/w/nocountryc101/home)
 - [Repositorio del Proyecto](https://github.com/No-Country/c10-34-t-mern.git)
-<br/> 
+<br/>  -->
 
 <!-- (#ta-house--proyecto-real-estate-de-idforideas-version-mobile)
 (#testing-figaro---barbery) -->
