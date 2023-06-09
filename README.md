@@ -53,7 +53,7 @@
   
 - [App Web](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
 - [Google Docs](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit)  
-Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse  
+  >> Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse  
 </details>
 
 <!-- ### 📋<em>Contenido</em>
