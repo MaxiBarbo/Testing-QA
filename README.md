@@ -17,14 +17,23 @@
 ## Proyectos Testing Realizados 📒
 
 ### 📋<em>Contenido</em>
+
+<details><summary>Pigmeo Wallet</summary>
+<p align="left">
+- #### [Deploy](https://pigmeo-app.netlify.app/)
+- #### [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
+</details>
+
+
+<!-- ### 📋<em>Contenido</em>
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
 - #### [Open Cart](#open-cart) 
 - #### [Testing Figaro - Barbery](#testing-figaro---barbery)
   - [Testing Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
 - #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://dev.tahouse.casa/) 
   - [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit) 
-- #### [Pigmeo Wallet - Deploy](https://pigmeo-app.netlify.app/)
-  - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)
+- #### [Pigmeo Wallet - Deploy](https://pigmeo-app.netlify.app/) -->
+  
 <br/>
 <br/>
 
