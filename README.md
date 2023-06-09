@@ -23,7 +23,8 @@
   
 - [Deploy](https://pigmeo-app.netlify.app/)
 - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
-> App Desarrollada en la comunidad no-country donde su función es unir personas de diferentes roles formando equipos ágiles trabajandi con metodologías scrum, cumpliendo el rol de Tester Qa en el team s8-14-t-mern  
+- [Repositorio del proyecto](https://github.com/No-Country/s8-14-t-mern)
+> App Desarrollada en la comunidad no-country donde su función es unir personas de diferentes roles formando equipos ágiles trabajandi con metodologías scrum, cumpliendo el rol de Tester Qa en el team s8-14-t-mern.
 </details>
 
 <details><summary>Ta House</summary>
