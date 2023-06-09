@@ -23,6 +23,7 @@
   
 - [Deploy](https://pigmeo-app.netlify.app/)
 - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
+> App Desarrollada en la comunidad no-country donde su función es unir personas de diferentes roles formando equipos ágiles que trabajan con metodologías scrum, mi rol es Tester Qa.  
 </details>
 
 <details><summary>Ta House</summary>
