@@ -20,10 +20,10 @@
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
 - #### [Open Cart](#open-cart) 
 - #### [Testing Figaro - Barbery](#testing-figaro---barbery)
-- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](#ta-house--proyecto-real-estate-de-idforideas-version-mobile)
-  - [Deploy app - Mobile version](https://dev.tahouse.casa/) 
+- #### [TA HOUSE | Proyecto Real-Estate de IdforIdeas, Version Mobile](https://dev.tahouse.casa/) 
+  - [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit) 
 - #### [Pigmeo Wallet - Deploy](https://pigmeo-app.netlify.app/)
-  - [Testing Docs - Mobile version](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)
+  - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)
 <br/>
 <br/>
 
@@ -34,7 +34,7 @@ Es un proyecto web que corresponde a la Idea 5 de la plataforma iDForIdeas y con
 
 Se utlizaron las siguientes herramientas para documentar y realizar le proyecto:
 <br/> 
-
+(#ta-house--proyecto-real-estate-de-idforideas-version-mobile)
 - [App Web](https://dev.tahouse.casa/) 
 - [HTML Report](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html) 
 - [GitHub Action](https://github.com/tahouse-casa/tahouse-testing/actions)
