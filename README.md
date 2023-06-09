@@ -28,8 +28,14 @@
 <details><summary>Ta House</summary>
 <p align="left">
   
-- #### [Deploy](https://pigmeo-app.netlify.app/)
-- #### [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
+- #### [Deploy](https://dev.tahouse.casa/) 
+- #### [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
+- [HTML Report](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html) 
+- [GitHub Action](https://github.com/tahouse-casa/tahouse-testing/actions)
+- [Google Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
+- [Diseño en Figma](https://www.figma.com/file/4kdfz5xOv0xe6VTIXFJmhT/TaHouse---Proyecto-Inmobiliario-1?node-id=1517%3A19288&t=5agVYS2iIg3MqEon-1)
+- [Backlog en Trello](https://trello.com/b/UwFdep98/idea-5)
+- [Repositorio del Proyecto](https://github.com/tahouse-casa)
 </details>
 
 <!-- ### 📋<em>Contenido</em>
