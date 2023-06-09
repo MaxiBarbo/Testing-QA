@@ -24,7 +24,6 @@
 - #### [Deploy](https://pigmeo-app.netlify.app/)
 - #### [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
 </details>
-<br/>
 
 <details><summary>Ta House</summary>
 <p align="left">
@@ -32,7 +31,6 @@
 - #### [Deploy](https://pigmeo-app.netlify.app/)
 - #### [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
 </details>
-<br/>
 
 <!-- ### 📋<em>Contenido</em>
 - #### [Test Api](./Docs/Apimon_MaximilianoBarbosa.pdf)
