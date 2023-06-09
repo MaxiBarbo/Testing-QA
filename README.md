@@ -31,7 +31,7 @@
 <details><summary>Ta House</summary>
 <p align="left">
   
-- [Deploy de la app](https://dev.tahouse.casa/) 
+- [Deploy version Mobile | dev.tahouse.casa](https://dev.tahouse.casa/) 
 - [Testing Docs](https://docs.google.com/document/d/1dUFPsR8bqabMhBHuJoDZJEjY0QTFLXMIijpkcEeTWhU/edit)
 - [HTML Report](https://tahouse-casa.github.io/tahouse-testing/docs/downloads/inicio.html) 
 - [GitHub Action](https://github.com/tahouse-casa/tahouse-testing/actions)
