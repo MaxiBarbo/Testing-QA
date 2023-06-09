@@ -16,7 +16,7 @@
 
 ## Proyectos Realizados 📒
 
-### 📚<em>Contenido</em>
+### 📚 <em>Contenido</em>
 
 <details><summary>Pigmeo Wallet</summary>
 <p align="left">
