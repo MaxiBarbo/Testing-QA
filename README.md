@@ -14,7 +14,7 @@
 
 #### ✏️ [LinkedIn](https://www.linkedin.com/in/maxi-barbosa/)
 
-## Proyectos Testing Realizados 📒
+## Proyectos Realizados 📒
 
 ### 📋<em>Contenido</em>
 
