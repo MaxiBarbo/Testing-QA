@@ -46,6 +46,7 @@
 - [Diseño en Figma](https://www.figma.com/file/y2FdStiQaM8LIcS0HzgQzE/Figaro?node-id=0-1&t=CvzvX21fUPUwBZUh-0)
 - [Backlog en Trello](https://trello.com/w/nocountryc101/home)
 - [Repositorio del Proyecto](https://github.com/No-Country/c10-34-t-mern.git)
+  > Es un proyecto libre realizado con la comunidad No-Country, la app web permite la gestion de turnos y obtencion de productos en una barberia, donde se trabajo con un equipo auto-organizado con metodologia scrum
 </details>
 
 <details><summary>OpenCart e-commerce</summary>
@@ -53,7 +54,7 @@
   
 - [App Web](https://demo.opencart.com/index.php?route=common/home&language=en-gb) 
 - [Google Docs](https://docs.google.com/document/d/1wHuhAc_iFKuRAs7inDK3Yd8zvfQRqdvXMmIfyyX36bo/edit)  
-  >> Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse  
+  > Testing realizado con fines prácticos y mejora en la búsqueda de bugs y/o defectos en apps web, donde fue expuesto como entrega para un proyecto final de un curso de Testing QA realizado en CoderHouse  
 </details>
 
 <!-- ### 📋<em>Contenido</em>
