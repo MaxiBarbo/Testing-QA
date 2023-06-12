@@ -44,7 +44,7 @@
 <details><summary>Figaro Barbery</summary>
 <p align="left">
   
-- [Google Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
+- [Testing Docs](https://docs.google.com/document/d/14fFwkLiMYYjrQySJ5P38QwySV3kIlFLiNcXz93yc4lk/edit)
 - [Github Action](https://github.com/MaxiBarbo/Barbery-App/actions)
 - [Diseño en Figma](https://www.figma.com/file/y2FdStiQaM8LIcS0HzgQzE/Figaro?node-id=0-1&t=CvzvX21fUPUwBZUh-0)
 - [Backlog en Trello](https://trello.com/w/nocountryc101/home)
