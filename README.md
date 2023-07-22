@@ -14,6 +14,8 @@
 
 #### ✏️ [LinkedIn](https://www.linkedin.com/in/maxi-barbosa/)
 
+<p>A continuación, encontrarás una selección de mis proyectos más significativos, donde he aplicado mis habilidades de testing para superar desafíos y lograr cada vez mejores resultados.</p>
+
 ## <em>Proyectos Realizados</em> 📒
 
 ### 📚 <em>Contenido</em>
