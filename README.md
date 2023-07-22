@@ -25,7 +25,8 @@
 - [Testing Docs](https://docs.google.com/spreadsheets/d/1-Ge_utFt7pmLCH6jQiVcPtutyufL6ym18Rn6FHfFios/edit#gid=549048910)  
 - [GitHub Action](https://github.com/No-Country/s8-14-t-mern/actions)
 - [Repositorio del proyecto](https://github.com/No-Country/s8-14-t-mern)
-> App Desarrollada en la comunidad no-country donde su función es unir personas de diferentes roles formando equipos ágiles trabajando con metodologías scrum. Mi rol en el team s8-14-t-mern fue el de Tester Qa.
+> App Desarrollada en la comunidad no-country trabajando con equipos algiles y metodologías scrum. Mi rol en el team s8-14-t-mern fue el de Tester Qa. El proyecto realizado es sobre una billetera virtual para realizar transferencias de dinero entre cuentas y recrgas de tarjetas virtuales de distitnas compañias como Personal, Claro, Sube.
+> Actualmente cuenta con 1 version prototipo  
 </details>
 
 <details><summary>Ta House</summary>
