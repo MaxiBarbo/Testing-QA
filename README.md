@@ -12,7 +12,7 @@
 
 #### ✒️ [Mi CV](./Docs/cv_maxibarbosa_en.pdf)
 
-#### Maxi Barbosa [<a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maximiliano Barbosa" height="12" width="20" /></a>](https://www.linkedin.com/in/maxi-barbosa/) 
+<a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 <p>A continuación, encontrarás una selección de mis proyectos más significativos, donde he aplicado mis habilidades de testing para superar desafíos y lograr cada vez mejores resultados.</p>
 
