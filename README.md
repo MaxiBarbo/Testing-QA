@@ -7,14 +7,7 @@
   </a>
 </p>
 
-
 ![descarga](https://user-images.githubusercontent.com/86979361/187540414-5f58deaa-2201-456a-b358-d3d37be24dfb.jpg)
-
-#### ✒️ [Mi CV](./Docs/cv_maxibarbosa_en.pdf)
-
-<a href="https://www.linkedin.com/in/maxi-barbosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Maxi Barbosa-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a> 
-
-<a href="https://maxi-barbosa-proyects.notion.site/maxi-barbosa-proyects/Maxi-Barbosa-39420ce4122a468692e1367ef17ff6e9" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?style=plastic&logo=notion&logoColor=white" /></a> 
 
 <p>A continuación, encontrarás una selección de mis proyectos más significativos, donde he aplicado mis habilidades de testing para superar desafíos y lograr cada vez mejores resultados.</p>
 
