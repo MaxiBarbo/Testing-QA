@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HRJ16Z7QSFM6XGJ4MTPEXAGJ
-  version: v3
----
-
 <h1 align="left">Testing-QA</h3>
 
 <p align="left">
