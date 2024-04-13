@@ -17,7 +17,7 @@
 <details><summary>FinzanzApp</summary>
 <p align="left">
 
-- [Tests Suite]()
+- [Tests Plan](https://github.com/No-Country/S14-30-mobile/tree/main/Testing)
 - [Team S14-30-mobile](https://github.com/No-Country/S14-30-mobile.git)
 
 
