@@ -21,7 +21,7 @@
 - [Team S14-30-mobile](https://github.com/No-Country/S14-30-mobile.git)
 
 
-> Detalle:
+> Detalle: App para android mobile
 </details>
 
 <details><summary>Spotter Gym</summary>https://github.com/No-Country/S14-30-mobile.git
