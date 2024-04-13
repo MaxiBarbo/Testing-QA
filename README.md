@@ -14,13 +14,23 @@
 
 ### 📚 Contenido
 
-<details><summary>Spotter Gym</summary>
+<details><summary>FinzanzApp</summary>
+<p align="left">
+
+- [Tests Suite]()
+- [Team S14-30-mobile](https://github.com/No-Country/S14-30-mobile.git)
+
+
+> Detalle:
+</details>
+
+<details><summary>Spotter Gym</summary>https://github.com/No-Country/S14-30-mobile.git
 <p align="left">
 
 - [Deploy version Mobile | Spotter Gym](https://s13-07-n-node-react-git-front-end-merge-spotterapp.vercel.app/acceso)
 - [Tests Suite](https://docs.google.com/spreadsheets/d/1r32jKngM6Jw_gcJPxGlLL5ZANTZZQ5qWdl6VkUtg6ek/edit?usp=sharing)
 - [Test plan en Repositorio del proyecto](https://github.com/No-Country/s13-07-n-node-react/tree/main/testing)
-- [Repositorio - Organizacion](https://github.com/No-Country/S14-30-mobile.git)
+- [Repositorio - Organizacion](https://github.com/SpotterGym)
 
 > Desarrollamos una aplicación dentro de la comunidad no-country, empleando metodologías ágiles y adoptando la metodología Scrum. Mi papel dentro del equipo S13-07-N-Node-React fue el de Tester QA. El proyecto se enfoca en crear una aplicación para la gestión de gimnasios, que ofrece tres perfiles de usuarios distintos: Cliente, Entrenador y Dueño. Cada perfil cuenta con un dashboard personalizado y funcionalidades específicas, adaptadas a las necesidades de cada tipo de usuario dentro del sistema.
 > Actualmente cuenta con 1 versión prototipo.
