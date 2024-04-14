@@ -26,4 +26,4 @@ jobs:
         uses: tryfabric/notion-github-action@v1
         with:
           notion-token: ${{ secrets.NOTION_TOKEN }}
-          notion-db: ${{ secrets.DB_NOTION }}
+          notion-db: ${{ secrets.NOTION_DATABASE }}
