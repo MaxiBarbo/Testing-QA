@@ -1,0 +1,149 @@
+name: Reporte de Bug
+description: template para crear un reporte de bug en issues de github
+title: "[Ingresar título del Bug]"
+labels: 
+  - Bug
+projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - octocat
+body:
+
+  - type: input
+    id: id_number
+    attributes:
+      label: 🏷️ ID
+      placeholder: ingrese id del caso de prueba
+    validations:
+      required: true
+
+  - type: input
+    id: fecha_reporte
+    attributes:
+      label: ✔️ Fecha de Reporte
+      description: Fecha en que se realiza el reporte del bug
+      placeholder: "DD-MM-YY"
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: version
+    attributes:
+      label: ✔️ Tipo de Defecto
+      options:
+        - Funcional
+        - Visual
+        - Crash
+        - Performance
+        - Contenido
+        - Accesibilidad
+    validations:
+      required: true
+
+  - type: dropdown
+    id: prioridad
+    attributes:
+      label: ✔️ Prioridad
+      description: Prioridad asignada al bug encontrado
+      options:
+        - Baja
+        - Media
+        - Alta
+      default: 0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: Dispositivo
+    attributes:
+      label: ✔️ Dispositivo
+      description: Dispositivo utilzado en el cual se encontro el bug
+      options:
+        - PC - Windows 
+        - PC - Ubuntu
+        - Mobile - Android
+        - Mobile - IOS
+      default: 0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: Navegador
+    attributes:
+      label: ✔️ Navegador
+      description: navegador utilizado en cual se econtro el bug
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+      default: 0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: asignado-a
+    attributes:
+      label: ✔️ Asignado a
+      options:
+        - Frontend
+        - Backend
+        - Diseño
+        - Testing
+      default: 0
+    validations:
+      required: true      
+
+  - type: textarea
+    id: pasos-de-reproduccion
+    attributes:
+      label: ✔️ Pasos de Reproduccion
+      description: si se requieren pre-requisitos agregarlos antes de los pasos de reproduccion 
+      placeholder: |
+        Pre-requisitos: N/A
+        1. Ingresar URL:
+        2. Segundo paso:
+        3. [...]
+    validations:
+      required: true        
+
+  - type: textarea
+    id: resultado_obtenido
+    attributes:
+      label: ✔️ Resultado Obtenido
+      description: Describa exactamente el resultado obtenido
+    validations:
+      required: true    
+
+
+  - type: textarea
+    id: resultado_esperado
+    attributes:
+      label: ✔️ Resultado Esperado
+      description: Describa exactamente el resuldato esperado
+    validations:
+      required: true      
+
+  - type: textarea
+    id: capturas_de_pantalla
+    attributes:
+      label: 📸 Imagenes y/o Videos
+      description: Adjuntar archivos de tipo imagen y/o video
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: 🔗 Test Plan
+      description: Ingresar url 
+      placeholder: email@example.com
+    validations:
+      required: false
+
+  - type: input
+    id: tester_qa
+    attributes:
+      label: ⚙️ Tester QA
+      placeholder: nombre del tester
+    validations:
+      required: false
