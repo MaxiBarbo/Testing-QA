@@ -1,5 +1,5 @@
-name: Generate Dashboard
-uses: ethomson/issue-dashboard@v1
+name: 'Generate Dashboard'
+  uses: ethomson/issue-dashboard@v1
   with:
     config: |
       title: 'Dashboard'
@@ -12,4 +12,4 @@ uses: ethomson/issue-dashboard@v1
         - type: 'table'
           title: 'New Pull Requests (This Week)'
           issue_query: 'repo:libgit2/libgit2 is:open is:issue created:>{{ date("-7 days") }} sort:created-asc'
-    token: ${{ secrets.GITHUB_TOKEN }}
+    token: ${{ github.token }}
