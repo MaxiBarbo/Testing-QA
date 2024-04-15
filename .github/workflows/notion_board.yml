@@ -31,6 +31,6 @@ jobs:
           issueType: ${{github.event.inputs.issueType}}
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NOTION_API_KEY: ${{ secrets.NOTION_TOKEN }}
-          NOTION_DATABASE: ${{ secrets.NOTION_DB }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE: ${{ secrets.NOTION_DATABASE }}
           
