@@ -1,4 +1,4 @@
-name: Notion Sync
+name: Issues in Notion DB 
 
 on:
   workflow_dispatch:
