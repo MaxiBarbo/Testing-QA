@@ -1,5 +1,5 @@
-- name: 'Generate Dashboard'
-  uses: ethomson/issue-dashboard@v1
+name: Generate Dashboard
+uses: ethomson/issue-dashboard@v1
   with:
     config: |
       title: 'Dashboard'
